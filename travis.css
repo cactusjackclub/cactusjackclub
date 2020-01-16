@@ -1,0 +1,151 @@
+a {
+		text-decoration: none;
+}
+
+body {
+	background-color: black;
+	background-image: url("cactuslightning.gif");
+	background-repeat: no-repeat;
+	background-size: 130%;
+	background-position: center;
+	font-family: OCR A Std, monospace;
+	font-size: 12px;
+}
+
+footer { background-color: black;
+       color: white;
+	   font-size: 10px;
+	   font-style: italic;
+	   text-align: center; 
+	   padding: 20px;
+	  
+}
+
+form{
+	margin-left: 110;
+	margin-right: 110px;
+}
+
+h1 {
+	color: white;
+	clear: left;
+	font-size: 100px;
+	margin: 0; 
+	overflow: hidden;
+    text-indent: 25%;
+    white-space: nowrap;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h2, h3 {
+	padding-top: 20px;
+	text-align: center;
+}
+
+h4 {
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: center; 
+}
+
+header {
+	background-image: url("headerlogos.jpg");
+	line-height: 200px;
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 200px;
+	width: 1000px;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+}
+
+main {
+	background-color: white;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+p {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+table {
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 95%;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.navbar {
+	background-color:black;
+	overflow: hidden;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	width: 100%;
+}
+.navbar a {
+	color: white;
+	font-size: 18px;
+	padding: 20px;
+	text-decoration: none;
+}
+.navbar a:hover {
+  background-color: #3d3d3d;
+}
+
+.shoes {
+	font-size: 15px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+
+#awards {
+	font-size: 10px;
+	padding-bottom: 2em;
+	padding-top: 2em;
+	text-align: center;
+}
+
+#disco {
+	font-size: 10px;
+	padding-bottom: 0.5em;
+	text-align: center;
+}
+
+#travis {
+	float:right;
+	height: 170px;
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 170px;
+}
+
+#twitter {
+
+}
+
+#wrapper {
+	background-color: black;
+	box-shadow: 3px 3px 3px 3px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1280px;
+	min-width: 900px;
+	width: 80%;
+}
